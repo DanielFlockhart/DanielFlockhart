@@ -52,7 +52,50 @@ Tech and Non Tech
 </ul>
 </div>
 <hr>
+<div">
+<b>What languages/Technologies Have I used?</b>
 
+<br>
+These include technologies that I have not necessarily mastered, but have dabbled with in numerous of my own projects that may not all be on my github.
+<br>
+<br>
+Engines/Softwares/IDEs
+<ul>
+    <li>Unity</li>
+    <li>Blender</li>
+    <li>Android Studios</li>
+    <li>+ Lots of different code editors</li>
+</ul>
+Languages
+<ul>
+    <li>Python</li>
+    <li>Java</li>
+    <li>HTML,CSS,JS</li>
+    <li>C#</li>
+    <li>C++</li>
+    <li>Range of other less common languages - prologue, xml,vbs etc</li>
+</ul>
+Specific Frameworks - only a few
+<ul>
+    <li>Tensorflow</li>
+    <li>Scikit</li>
+    <li>nodejs</li>
+    <li>React native/js</li>
+    <li>Django</li>
+</ul>
+Project Types
+<ul>
+    <li>Artificial Intelligence</li>
+    <li>Virtual Reality</li>
+    <li>Smart home</li>
+    <li>Android Apps</li>
+    <li>Web Development</li>
+    <li>Game Development</li>
+    <li>Biotech</li>
+</ul>
+
+</div>
+<hr>
 <div id="header" align="center">
     <b>Contact</b>
     <br>
