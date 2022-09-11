@@ -81,16 +81,15 @@ Tech and Non Tech
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielflockhart&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=danielflockhart&show_icons=true&theme=radical&hide=contribs,prs&include_all_commits=true">
-<img src="">
+
 </div>
 
 
-
-<!--
+<b>
  ██████╗██╗  ██╗██╗██╗     ██╗     ███████╗██████╗ ██╗   ██╗██╗██████╗ ███████╗
 ██╔════╝██║  ██║██║██║     ██║     ██╔════╝██╔══██╗██║   ██║██║██╔══██╗██╔════╝
 ██║     ███████║██║██║     ██║     █████╗  ██║  ██║██║   ██║██║██████╔╝█████╗  
 ██║     ██╔══██║██║██║     ██║     ██╔══╝  ██║  ██║╚██╗ ██╔╝██║██╔══██╗██╔══╝  
 ╚██████╗██║  ██║██║███████╗███████╗███████╗██████╔╝ ╚████╔╝ ██║██████╔╝███████╗
  ╚═════╝╚═╝  ╚═╝╚═╝╚══════╝╚══════╝╚══════╝╚═════╝   ╚═══╝  ╚═╝╚═════╝ ╚══════╝
--->
+<b>
