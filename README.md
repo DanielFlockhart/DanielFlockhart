@@ -77,6 +77,10 @@ Tech and Non Tech
     </a>
   </div>
 </div>
+<hr>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielflockhart&layout=compact)](https://github.com/danielflockhart/github-readme-stats)
+
+
 <!--
  ██████╗██╗  ██╗██╗██╗     ██╗     ███████╗██████╗ ██╗   ██╗██╗██████╗ ███████╗
 ██╔════╝██║  ██║██║██║     ██║     ██╔════╝██╔══██╗██║   ██║██║██╔══██╗██╔════╝
