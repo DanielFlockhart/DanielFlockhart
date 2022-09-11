@@ -79,9 +79,16 @@ Tech and Non Tech
 </div>
 <hr>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielflockhart&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=danielflockhart&show_icons=true&theme=radical&hide=contribs,prs&include_all_commits=true">
 
+<div class="row">
+  <div class="column">
+    <img src="https://github-readme-stats.vercel.app/api?username=danielflockhart&show_icons=true&theme=radical&hide=contribs,prs&include_all_commits=true">
+  </div>
+  <div class="column">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielflockhart&layout=compact">
+  </div>
+  </div>
+</div>
 </div>
 
 
