@@ -75,7 +75,7 @@ Languages
     <li>C++</li>
     <li>Range of other less common languages - prologue, xml,vbs etc</li>
 </ul>
-Specific Frameworks - only a few
+Specific Frameworks - Including but not limited to
 <ul>
     <li>Tensorflow</li>
     <li>Scikit</li>
