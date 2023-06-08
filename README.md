@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<img src="[https://www.studyacrossthepond.com/sites/default/files/birm-uni.jpeg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fintranet.birmingham.ac.uk%2Fstaff%2Fresources%2Fbrand-resources%2Funiversity-logo-guidelines.aspx&psig=AOvVaw2YfNaqssXaCZQHbIxb7bqb&ust=1686345031386000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJib0_bKtP8CFQAAAAAdAAAAABAE)" width="400"/>
+<img src="https://www.studyacrossthepond.com/sites/default/files/birm-uni.jpeg" width="400"/>
 </div>
 
 <hr>
