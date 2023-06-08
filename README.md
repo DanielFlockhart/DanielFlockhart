@@ -28,7 +28,7 @@ Tech and Non Tech
     <li> Create a Successful Biotech Company
     <li> Advance and pioneer new technologies in the fields of AI/ML
     <li> Become a renowned computer scientist as a result of the work I do in industry
-    <li> Create true sentient AI - safely and ethically
+    <li> Assist in directing the development of AI towards applications that improve humanity
     <li> Run a sub 17:30 5000m
     <li> Be more grateful and appreciative of the world I live in.
     <li> Learn a Martial Art
