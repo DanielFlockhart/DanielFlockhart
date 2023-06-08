@@ -40,15 +40,15 @@ Tech and Non Tech
 <h4>Areas of Personal Interest/Study:</h4>
 <ul>
     <li>🤖 Artificial Intelligence/Machine Learning</li>
-    <li>🍃 Biotechnology</li>
+    <li>🍃 Biotechnology, Medtech and Chemtech</li>
     <li>🧮 Mathematics</li>
     <li>🖥️ Cyber Security</li>
     <li>🚀 Space</li>
+    <li>🥽 Virtual Reality</li>
     <li>🧠 Neural Computation/Human-Computer Interaction</li>
     <li>👨‍💻 Technology, software and hardware in general!</li>
-	<li>💪 Fitness, Supplements and Nootropics</li>
-    <li>🎤 Podcasting</li>
-	<li>🕴️ Entrepreneurship</li>
+    <li>💪 Fitness, Supplements and Nootropics</li>
+    <li>🕴️ Entrepreneurship</li>
 </ul>
 </div>
 <hr>
