@@ -31,8 +31,7 @@ Tech and Non Tech
     <li> Assist in directing the development of AI towards applications that improve humanity
     <li> Run a sub 17:30 5000m
     <li> Be more grateful and appreciative of the world I live in.
-    <li> Learn a Martial Art
-    <li> Reach 100,000 Listens on my Podcast
+    <li> Become a BJJ Black Belt
     <li> Run an Ultramarathon
 </div>
 <hr>
