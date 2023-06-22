@@ -106,9 +106,11 @@ Engines/Softwares/IDE/Other/OS's
   </div>
 </div>
 </div>
-'''
+
+<b>
 Note, Unfortunately due to a device that had the SSD die with a large portion of my previous projects on it. There are some gaps on my GitHub.
-'''
+</b>
+
 
 
 <!--
