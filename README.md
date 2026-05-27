@@ -91,18 +91,6 @@ Worked on machine learning architectures for digital chemistry and computer visi
 - Experimented with autoencoders for molecular skeleton representations
 - Reported findings to domain experts and produced technical research outputs for further experimentation
 
----
-
-## How I think about building
-
-```text
-Useful beats flashy.
-Shipping beats theorising.
-Clarity beats complexity.
-Momentum beats perfection.
-```
-
-I care about technical depth, commercial usefulness and speed of execution. The goal is not just to write code; it is to build systems that survive contact with real users.
 
 ---
 
